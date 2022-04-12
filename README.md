@@ -1,11 +1,10 @@
-# LuxFinance 
-Send Animated Crypto Transactions Worldwide
-
-## Complete WEB 3.0 Application
+# LuxFinance
 
 Send crypto transactions paired with a generated GIF.
 
-[Check it out](https://www.luxfinance.xyz/)
+Live now on Ropsten Testnet!
+
+[Enter](https://www.luxfinance.xyz/)
 
 
 
