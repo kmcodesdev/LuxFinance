@@ -8,3 +8,5 @@ hardhat.config.js
 #Hardhat files
 cache
 artifacts
+
+smart_contract/hardhat.config.js
